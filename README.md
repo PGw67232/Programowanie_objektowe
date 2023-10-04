@@ -1,1 +1,1 @@
-# Programowanie_objektowe
+# Programowanie_obiektowe
